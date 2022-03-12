@@ -10,6 +10,6 @@ This repository holds my projects based on python. It contains Machine Learning,
     Standardize | Polybomial features |Linear Regression
 * ### Image Procesing 
 * ### Applications
-  * [Breakout_Game]
+  * [Breakout_Game](Applications/Breakout_Game/breakout.py)\
     animation & game designing
  
