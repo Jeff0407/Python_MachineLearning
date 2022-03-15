@@ -8,7 +8,7 @@ This repository holds my projects based on python. It contains Machine Learning,
 * ### Machine Learning
   * [Boston Housing](Machine_Learning/Boston_Housing/boston_housing_competition.py)\
     Standardize | Polybomial features | Linear Regression
-  * [Titanic - Machine Learning from Disaster]\
+  * [Titanic - Machine Learning from Disaster](Machine_Learning/Titanic_surviving/titanic_github.py)\
     Random Forest | One Hot Encoding
 * ### Image Procesing 
 * ### Applications
