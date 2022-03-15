@@ -11,6 +11,8 @@ This repository holds my projects based on python. It contains Machine Learning,
   * [Titanic - Machine Learning from Disaster](Machine_Learning/Titanic_surviving/titanic_github.py)\
     Random Forest | One Hot Encoding
 * ### Image Procesing 
+  * [Pointwise Operations and Gamma]
+    
 * ### Applications
   * [Breakout_Game](Applications/Breakout_Game/breakout.py)\
     animation & game designing
