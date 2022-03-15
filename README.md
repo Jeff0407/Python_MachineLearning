@@ -16,7 +16,7 @@ This repository holds my projects based on python. It contains Machine Learning,
   * Blur Image( watch my demo video [here](https://drive.google.com/drive/folders/1Mf_KnDobxaBcnSiIiq2rEYOtO21RU3f8?usp=sharing))
 * ### Applications
   * [Breakout_Game](Applications/Breakput_game/breakout.py) (watch my demo video [here](https://drive.google.com/file/d/1Ej5yWa62DE9ItMnI4mwxOW8IjC1IFnni/view?usp=sharing))\
-    animation & game designing
+    Object Oriented | animation & game designing
  
 
 
