@@ -9,7 +9,7 @@ This repository holds my projects based on python. It contains Machine Learning,
   * [Boston Housing](Machine_Learning/Boston_Housing/boston_housing_competition.py)\
     Standardize | Polybomial features | Linear Regression
   * [Titanic - Machine Learning from Disaster]\
-    Random Forest | One Hot Encodeing
+    Random Forest | One Hot Encoding
 * ### Image Procesing 
 * ### Applications
   * [Breakout_Game](Applications/Breakout_Game/breakout.py)\
