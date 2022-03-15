@@ -13,6 +13,7 @@ This repository holds my projects based on python. It contains Machine Learning,
 * ### Image Procesing 
   * Pointwise Operations and Gamma (watch my demo videos [here](https://drive.google.com/drive/folders/1wXpMm7RmC0z7uFzH82bQAjTk10EHiciC?usp=sharing))\
     Histogram Equalization | Constraint Stretching | Gamma Correction
+  * Blur Image( watch my demo video [here](https://drive.google.com/drive/folders/1Mf_KnDobxaBcnSiIiq2rEYOtO21RU3f8?usp=sharing))
 * ### Applications
   * [Breakout_Game](Applications/Breakout_Game/breakout.py) (watch my demo video [here](https://drive.google.com/file/d/1Ej5yWa62DE9ItMnI4mwxOW8IjC1IFnni/view?usp=sharing))\
     animation & game designing
