@@ -6,7 +6,7 @@ This repository holds my projects based on python. It contains Machine Learning,
 ## Project Source Codes:
 * ### Deep Learning
   * Digit Recognizer\
-    CNN | Pytorch
+    Pytorch | CNN | BatchNorm | MaxPool | Dropout
 * ### Machine Learning
   * [Boston Housing](Machine_Learning/Boston_Housing/boston_housing_competition.py)\
     Standardize | Polynomial features | Linear Regression
