@@ -25,6 +25,6 @@ This repository holds my projects based on python. It contains Machine Learning,
     Object-Oriented Programming| animation & game designing
   * [Name Popularity Searching System]() (watch my demo video [here](https://drive.google.com/file/d/1P8nYnClraNfHXDeXxAwf59B3fniKoKIg/view?usp=sharing))\
     Data Strucutre | Tkinter
-  * [Boggle Game Solver]() (watch my demo video [here](https://drive.google.com/file/d/1y3Mi3RNpH-a5lXaZVvDFWRkMl6iIQafA/view?usp=sharing))\
+  * [Boggle Game Solver](Applications/Boggle_game_solver/boggle.py) (watch my demo video [here](https://drive.google.com/file/d/1y3Mi3RNpH-a5lXaZVvDFWRkMl6iIQafA/view?usp=sharing))\
     Recursive Functions
 
