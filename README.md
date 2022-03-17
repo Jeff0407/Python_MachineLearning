@@ -4,8 +4,8 @@ Hi there!\
 This repository holds my projects based on python. It contains Machine Learning, Deep Learning, Image Processing and some applicatinos 
 
 ## Project Source Codes:
-* ### Deep Learning\
-  * Digit Recognizer
+* ### Deep Learning
+  * Digit Recognizer\
     CNN | Pytorch
 * ### Machine Learning
   * [Boston Housing](Machine_Learning/Boston_Housing/boston_housing_competition.py)\
