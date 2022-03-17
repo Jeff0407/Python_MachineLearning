@@ -19,7 +19,7 @@ This repository holds my projects based on python. It contains Machine Learning,
   * [MyPhotoshop](Image_Processing/MyPhotoshop/MyPhotoshop.py)( watch my demo video [here](https://drive.google.com/file/d/1U3ZzIcbhGDENj9u2KjBH-EYKpous8MSv/view?usp=sharing))\
     Color Distance Algorithm
 * ### Applications
-  * [Breakout_Game](Applications/Breakput_game/breakout.py) (watch my demo video [here](https://drive.google.com/file/d/1Ej5yWa62DE9ItMnI4mwxOW8IjC1IFnni/view?usp=sharing))\
+  * [Breakout_Game](Applications/Breakout_game/breakout.py) (watch my demo video [here](https://drive.google.com/file/d/1Ej5yWa62DE9ItMnI4mwxOW8IjC1IFnni/view?usp=sharing))\
     Object-Oriented Programming| animation & game designing
  
 
