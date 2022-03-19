@@ -15,6 +15,8 @@ This repository holds my projects based on python. It contains Machine Learning,
 * ### Image Procesing 
   * Pointwise Operations and Gamma (watch my demo videos [here](https://drive.google.com/drive/folders/1wXpMm7RmC0z7uFzH82bQAjTk10EHiciC?usp=sharing))\
     Histogram Equalization | Constraint Stretching | Gamma Correction
+  * [Image Restoration]() (watch my demo video [here](https://drive.google.com/file/d/1fltMJP6tFN2Sz_TCuBAKwHf_SVspdswA/view?usp=sharing))\
+    Minimum Mean Square Error (MMSE) Linear Filters
   * [Blur Image](Image_Processing/Blur_image/blur.py) (watch my demo video [here](https://drive.google.com/file/d/1LmdoX1ZgMYfPbnY9e_Pfs9c99HoMuP0w/view?usp=sharing))
   * [MyPhotoshop](Image_Processing/MyPhotoshop/MyPhotoshop.py) (watch my demo video [here](https://drive.google.com/file/d/1TBoOga6R3gifIcgSv3gfR454P_ugc-za/view?usp=sharing))\
     Color Distance Algorithm
