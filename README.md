@@ -7,7 +7,7 @@ This repository holds my projects based on python. It contains Machine Learning,
 * ### Deep Learning
   * Deepfake Detection\
     Pytorch | Data Augenmentation | Transfer Learning
-  * Digit Recognizer\
+  * [Digit Recognizer](Deep_Learning/Digit_Recognizer/Digit_Recognizer_github.ipynb)\
     Pytorch | CNN | BatchNorm | MaxPool | Dropout
 * ### Machine Learning
   * [Boston Housing ](Machine_Learning/Boston_Housing/boston_housing_competition.py)\
