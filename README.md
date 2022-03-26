@@ -5,7 +5,7 @@ This repository holds my projects based on python. It contains Machine Learning,
 
 ## Project Source Codes:
 * ### Deep Learning
-  * [Deepfake Detection](Deep_Learning/Deepfake_Detection/deepfake_detection_transfer_learning.ipynb)\
+  * [Deepfake Detection](Deep_Learning/Deepfake_Detection/deepfake_detection_transferlearning.ipynb)\
     Pytorch | Data Augenmentation | Transfer Learning
   * [Digit Recognizer](Deep_Learning/Digit_Recognizer/Digit_Recognizer_github.ipynb)\
     Pytorch | CNN | BatchNorm | MaxPool | Dropout
