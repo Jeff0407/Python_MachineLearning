@@ -15,7 +15,7 @@ This repository holds my projects based on python. It contains Machine Learning,
   * [Titanic - Machine Learning from Disaster](Machine_Learning/Titanic_surviving/titanic_github.py)\
     Random Forest | One Hot Encoding | Feature Engineering | Hyperparameter Tuning
 * ### Computer Vision
-  * [Real-time Face Recognition]() (watch my demo video [here](https://drive.google.com/file/d/13k91UyILTCPNscclweHNV9jTDfDs-tLA/view?usp=sharing))\
+  * Real-time Face Recognition (watch my demo video [here](https://drive.google.com/file/d/13k91UyILTCPNscclweHNV9jTDfDs-tLA/view?usp=sharing))\
     Opencv | KNN
   * Traffic Object Detection (watch my demo video [here](https://drive.google.com/file/d/1w8TAlwztM-3R0MTSsmQziZ6gZGsy4Uw_/view?usp=sharing))
 * ### Image Procesing 
