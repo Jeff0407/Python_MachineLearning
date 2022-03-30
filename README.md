@@ -17,7 +17,7 @@ This repository holds my projects based on python. It contains Machine Learning,
 * ### Computer Vision
   * [Real-time Face Recognition]() (watch my demo video [here](https://drive.google.com/file/d/13k91UyILTCPNscclweHNV9jTDfDs-tLA/view?usp=sharing))\
     Opencv | KNN
-  * [Traffic Object Detection]() (watch my demo video [here](https://drive.google.com/file/d/1w8TAlwztM-3R0MTSsmQziZ6gZGsy4Uw_/view?usp=sharing))
+  * Traffic Object Detection (watch my demo video [here](https://drive.google.com/file/d/1w8TAlwztM-3R0MTSsmQziZ6gZGsy4Uw_/view?usp=sharing))
 * ### Image Procesing 
   * Pointwise Operations and Gamma (watch my demo videos [here](https://drive.google.com/drive/folders/1wXpMm7RmC0z7uFzH82bQAjTk10EHiciC?usp=sharing))\
     Histogram Equalization | Constraint Stretching | Gamma Correction
