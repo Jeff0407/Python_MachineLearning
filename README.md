@@ -25,7 +25,7 @@ This repository holds my projects based on python. It contains Machine Learning,
   * Image Processing Applications (watch my demo videos [here](https://drive.google.com/drive/folders/1sflZrRbBfJ3O9hjaAF3bjaTqeJnWPE3n?usp=sharing))\
     Fire Detection | Shrink Image | Photomontage | Mirror Image 
 * ### Applications
-  * [Traffic Object Detection]() (watch my demo video [here](https://drive.google.com/file/d/1w8TAlwztM-3R0MTSsmQziZ6gZGsy4Uw_/view?usp=sharing)
+  * [Traffic Object Detection]() (watch my demo video [here](https://drive.google.com/file/d/1w8TAlwztM-3R0MTSsmQziZ6gZGsy4Uw_/view?usp=sharing))
   * [Breakout_Game](Applications/Breakout_game/breakout.py) (watch my demo video [here](https://drive.google.com/file/d/1Ej5yWa62DE9ItMnI4mwxOW8IjC1IFnni/view?usp=sharing))\
     Object-Oriented Programming| animation & game designing
   * [Name Popularity Searching System]() (watch my demo video [here](https://drive.google.com/file/d/1P8nYnClraNfHXDeXxAwf59B3fniKoKIg/view?usp=sharing))\
